@@ -5,3 +5,6 @@ one two three
 ja 
 rad pridavam
 veci
+a 
+zase
+pridam
